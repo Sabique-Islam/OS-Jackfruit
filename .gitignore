@@ -32,3 +32,5 @@ logs/
 *.swp
 *~
 .vscode/
+
+EXE.md
